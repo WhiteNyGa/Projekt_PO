@@ -1,0 +1,10 @@
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\bin\Debug\Projekt_PO_Interfejs.exe.config
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\bin\Debug\Projekt_PO_Interfejs.exe
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\bin\Debug\Projekt_PO_Interfejs.pdb
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.Form1.resources
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.Properties.Resources.resources
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.exe
+C:\Users\Paweł\source\repos\Projekt_PO_Interfejs\Projekt_PO_Interfejs\obj\Debug\Projekt_PO_Interfejs.pdb
